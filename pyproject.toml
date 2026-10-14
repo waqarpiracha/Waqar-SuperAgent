@@ -16,5 +16,7 @@ copyright = "Copyright (C) 2026 Waqar Analytics & Automation"
 
 [tool.flet.android]
 permissions = [
-    "INTERNET"
+    "INTERNET",
+    "READ_EXTERNAL_STORAGE",
+    "WRITE_EXTERNAL_STORAGE"
 ]
